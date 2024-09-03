@@ -1,4 +1,4 @@
-# Practical Machine Learning Project
+# Sentence Pair Classification Project
 
 ## Project Overview
 
