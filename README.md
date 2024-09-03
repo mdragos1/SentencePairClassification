@@ -1,8 +1,5 @@
 # Practical Machine Learning Project
 
-## Author
-Mihalcea Dragos Stefan, 407
-
 ## Project Overview
 
 This project focuses on training a classifier to identify correlations between pairs of Romanian sentences. The dataset used includes 58,000 training pairs, 3,000 validation pairs, and 3,000 test pairs. Two machine learning models were implemented and evaluated: **LinearSVC** and **Neural Networks**.
